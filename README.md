@@ -11,12 +11,12 @@ Hi there 👋
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+</div><br>
 
 🎯 I thrive on problem-solving and am dedicated to continually learning and improving my skills. My specialties include quickly grasping new technologies and translating business needs into robust software solutions. I excel in implementing web solutions, integrating with external systems through APIs, and delivering results that drive business success.
 
 <div style="display: inline_block"><br>
   <img height="180em" alt="Lucas-Languages-most -used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlktr&layout=compact&theme=dracula">
-</div>
+</div><br>
 
 📫 Feel free to reach out to me via email at lucas.santos.code77@gmail.com. 🔗 Connect with me on LinkedIn to stay updated on my professional journey and explore potential collaborations. Thank you for visiting my GitHub profile. I'm excited to showcase my projects and collaborate with fellow developers to create meaningful and impactful solutions. Let's connect and innovate together! 😊🚀
