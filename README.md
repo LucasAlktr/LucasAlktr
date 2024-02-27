@@ -1,8 +1,8 @@
 Hi there 👋
 
-👨🏻‍💻 I'm Lucas Santos, 
-🖥️🚀 a developer with a passion for crafting software solutions that drive overall product success. 
-💼 My background encompasses a range of expertise including Service Support, Incident Management, Agile methodologies, and Application Maintenance.
+👨🏻‍💻 I'm Lucas Santos, <br>
+🖥️🚀 a developer with a passion for crafting software solutions that drive overall product success. <br>
+💼 My background encompasses a range of expertise including Service Support, Incident Management, Agile methodologies, and Application Maintenance. <br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
